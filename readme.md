@@ -22,4 +22,4 @@ Step 5: Streamlit interface for interactive review classification.
    Copy
    Edit
    git clone https://github.com/YuvrajDs1/RNN-imdb-sentiment-classifier.git
-   cd imdb-sentiment-rnn
+   cd RNN-imdb-sentiment-classifier
