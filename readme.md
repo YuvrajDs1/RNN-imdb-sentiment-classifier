@@ -21,5 +21,5 @@ Step 5: Streamlit interface for interactive review classification.
    bash
    Copy
    Edit
-   git clone https://github.com/yourusername/imdb-sentiment-rnn.git
+   git clone https://github.com/YuvrajDs1/imdb-sentiment-rnn.git
    cd imdb-sentiment-rnn
